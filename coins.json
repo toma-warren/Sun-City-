@@ -1,0 +1,173 @@
+{
+  "coinsData": {
+    "1227464161638879326": {
+      "coins": 989999,
+      "promocode": null,
+      "usedPromocode": null,
+      "deposit": 2028,
+      "depositIncome": 20
+    },
+    "383928276722122753": {
+      "coins": 51471,
+      "promocode": "11",
+      "usedPromocode": null,
+      "deposit": 1,
+      "depositIncome": 0,
+      "boxUsesToday": 1,
+      "boxLastUseDate": "2025-06-18",
+      "promo": "Отсутствует",
+      "status": "🥈 Начинающий",
+      "lastMessage": 1750615336095
+    },
+    "1205446543042412566": {
+      "coins": 1000000030,
+      "promocode": "бони",
+      "usedPromocode": null,
+      "deposit": 0,
+      "depositIncome": 0,
+      "boxUsesToday": 0,
+      "boxLastUseDate": "2025-08-04"
+    },
+    "1318299880569045083": {
+      "coins": 1037980,
+      "deposit": 0,
+      "depositIncome": 0,
+      "promocode": null,
+      "usedPromocode": null
+    },
+    "665250926868824064": {
+      "coins": 8865157,
+      "promocode": null,
+      "usedPromocode": null,
+      "deposit": 90,
+      "depositIncome": 0,
+      "boxUsesToday": 5,
+      "boxLastUseDate": "2025-06-22"
+    },
+    "641671697354719241": {
+      "coins": 100000010,
+      "promocode": null,
+      "usedPromocode": null
+    },
+    "1372659401818636298": {
+      "coins": 0,
+      "promocode": null,
+      "usedPromocode": null
+    },
+    "838622308561846313": {
+      "coins": 1,
+      "promocode": null,
+      "usedPromocode": null
+    },
+    "787361007110586368": {
+      "coins": 0,
+      "promocode": null,
+      "usedPromocode": null
+    },
+    "1001409067438313492": {
+      "coins": 96135,
+      "promocode": null,
+      "usedPromocode": null
+    },
+    "1130929344508854402": {
+      "coins": 0,
+      "promocode": null,
+      "usedPromocode": "бони"
+    },
+    "777442174273978378": {
+      "coins": 8272,
+      "promocode": null,
+      "usedPromocode": null,
+      "boxUsesToday": 25,
+      "boxLastUseDate": "2025-08-04"
+    },
+    "1025083607464808448": {
+      "coins": 0,
+      "promocode": null,
+      "usedPromocode": null
+    }
+  },
+  "promocodes": {
+    "11": {
+      "ownerId": "383928276722122753",
+      "uses": 0
+    },
+    "бони": {
+      "ownerId": "1205446543042412566",
+      "uses": 1
+    }
+  },
+  "privateRoles": {
+    "1401513309701799986": {
+      "ownerIds": [
+        "383928276722122753",
+        "665250926868824064"
+      ],
+      "createdAt": 1754217213182,
+      "expiresAt": 1756809213182,
+      "warning48Sent": false,
+      "warning24Sent": false,
+      "cost": 1200,
+      "color": "#61030c",
+      "emojis": [
+        "🛡️"
+      ],
+      "roleName": "Модер 🛡️",
+      "payerId": "383928276722122753"
+    },
+    "1401619857921019915": {
+      "ownerIds": [
+        "383928276722122753"
+      ],
+      "createdAt": 1754242615867,
+      "expiresAt": 1756834615867,
+      "warning48Sent": false,
+      "warning24Sent": false,
+      "cost": 1,
+      "color": "#f21e00",
+      "emojis": [],
+      "roleName": "Томик",
+      "payerId": "383928276722122753"
+    },
+    "1401990401438519380": {
+      "ownerIds": [
+        "1001409067438313492"
+      ],
+      "createdAt": 1754330960424,
+      "expiresAt": 1756922960424,
+      "warning48Sent": false,
+      "warning24Sent": false,
+      "cost": 5,
+      "color": "#ff039a",
+      "emojis": [
+        "🤟",
+        "😜"
+      ],
+      "roleName": "🤟 😜 Монро 🤟 😜",
+      "payerId": "1001409067438313492"
+    },
+    "1401993853803692226": {
+      "ownerIds": [
+        "1205446543042412566",
+        "1130929344508854402"
+      ],
+      "createdAt": 1754331783707,
+      "expiresAt": 1756923783707,
+      "warning48Sent": false,
+      "warning24Sent": false,
+      "cost": 500,
+      "color": "#7FFF00",
+      "emojis": [
+        "😎"
+      ],
+      "roleName": "хейтер маши 😎",
+      "payerId": "1205446543042412566"
+    }
+  },
+  "disabledChannels": [
+    "1383750752161234984",
+    "1383168935708590214",
+    "1383087775267557447"
+  ],
+  "families": {}
+}

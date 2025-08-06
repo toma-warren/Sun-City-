@@ -1,0 +1,20 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "Discord bot with coins and promocodes",
+  "main": "coins.js",
+    "type": "module",
+  "scripts": {
+    "start": "node coins.js"
+  },
+  "dependencies": {
+    "@discordjs/rest": "^2.5.1",
+    "canvas": "^3.1.2",
+    "discord-api-types": "^0.38.12",
+    "discord.js": "^14.20.0",
+    "dotenv": "^16.5.0",
+    "fluent-ffmpeg": "^2.1.3",
+    "gif-encoder-2": "^1.0.5",
+    "moment": "^2.30.1"
+  }
+}
